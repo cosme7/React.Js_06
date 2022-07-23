@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/cosme7/React.Js_06.git/static/css/main.76121720.css",
-    "main.js": "/cosme7/React.Js_06.git/static/js/main.eedd9780.js",
-    "static/media/rain.gif": "/cosme7/React.Js_06.git/static/media/rain.84cca41f4b5751774878.gif",
-    "static/media/summer.gif": "/cosme7/React.Js_06.git/static/media/summer.8a44472db86fd0c7e8af.gif",
-    "static/media/rain-bg.jpg": "/cosme7/React.Js_06.git/static/media/rain-bg.22ca56ef0452bc3a0642.jpg",
-    "index.html": "/cosme7/React.Js_06.git/index.html",
-    "main.76121720.css.map": "/cosme7/React.Js_06.git/static/css/main.76121720.css.map",
-    "main.eedd9780.js.map": "/cosme7/React.Js_06.git/static/js/main.eedd9780.js.map"
+    "main.css": "/React.Js_06/static/css/main.ff802fa4.css",
+    "main.js": "/React.Js_06/static/js/main.eedd9780.js",
+    "static/media/rain.gif": "/React.Js_06/static/media/rain.84cca41f4b5751774878.gif",
+    "static/media/summer.gif": "/React.Js_06/static/media/summer.8a44472db86fd0c7e8af.gif",
+    "static/media/rain-bg.jpg": "/React.Js_06/static/media/rain-bg.22ca56ef0452bc3a0642.jpg",
+    "index.html": "/React.Js_06/index.html",
+    "main.ff802fa4.css.map": "/React.Js_06/static/css/main.ff802fa4.css.map",
+    "main.eedd9780.js.map": "/React.Js_06/static/js/main.eedd9780.js.map"
   },
   "entrypoints": [
-    "static/css/main.76121720.css",
+    "static/css/main.ff802fa4.css",
     "static/js/main.eedd9780.js"
   ]
 }
